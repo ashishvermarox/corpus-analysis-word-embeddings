@@ -1,8 +1,8 @@
 CSI5386 - Natural Language Processing | Assignment 1
 
 Submitted by:
-Nehal Aggarwal	300092092
-Ashish Verma	300059114
+Nehal Aggarwal	
+Ashish Verma	
 
 1. Create two folders Dataset and Output if not present.
 
